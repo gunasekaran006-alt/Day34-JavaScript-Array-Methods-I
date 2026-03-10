@@ -47,7 +47,7 @@ console.log(users);
 // String methods
 // uppercase & lowercase
 
-let emailInput = "NARASIMHAN@GMAIL.COM";
+let emailInput = "GUNASEKARAN006@GMAIL.COM";
 let cleanedMail = emailInput.toLowerCase();
 console.log(cleanedMail);
 
